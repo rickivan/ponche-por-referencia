@@ -80,12 +80,15 @@
      style="background-color:#25D366;color:white;padding:14px 40px;border-radius:10px;
             text-decoration:none;font-weight:bold;font-size:20px;display:inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
-         alt="WhatsApp" width="24" height="24" 
+         alt="WhatsApp" width="240" height="240" 
          style="vertical-align:middle;margin-right:10px;">
-    ÚNETE AL GRUPO OFICIAL
   </a>
 </p>
-
+<p align="center">
+  <a href="https://chat.whatsapp.com/Jn9L7tkqsHoFx52KFhnBd4">
+  ÚNETE AL GRUPO OFICIAL
+  </a>
+</p>
 ---
 
 ## 🎯 Incluye
