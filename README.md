@@ -9,7 +9,6 @@
   </picture>
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/mode-offline_event-blue?style=for-the-badge"/>
@@ -78,6 +77,12 @@
         <br><sub><b>@menezgael</b></sub>
       </a>
     </td>
+    <td align="center" width="200">
+      <a href="https://www.instagram.com/andypandita04/">
+        <img src="assets/organizers/andypandita04.png" width="100" height="100" alt="@andypandita04">
+        <br><sub><b>@andypandita04</b></sub>
+      </a>
+    </td>
     </tr>
 </table>
 
@@ -97,6 +102,7 @@
 </p>
 
 ## QR del repo para compartir 👾
+
 <p align="center">
   <img src="assets/qr/whatsapp-qr.png" alt="QR WhatsApp Grupo Oficial" width="180">
 </p>
@@ -110,7 +116,6 @@
 - **Seguridad:** Revisión al ingreso. Personal dentro y fuera del recinto.
 - **Comodidad:** Baños limpios por género, luz negra, buen sonido, carpa para las lluvias y buen ambiente.
 - **Bebidas:** Mojito de cortesía (sujeto a disponibilidad), agua purificada.
-
 
 ---
 
